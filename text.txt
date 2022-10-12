@@ -1,0 +1,14 @@
+- Khai báo các thư viện cần thiết OK
+- Đọc tập dữ liệu bằng thư viện pandas OK
+- Cho biết số lượng phần tử của tập dữ liệu OK
+- Cho biết tập dữ liệu có bao nhiêu nhãn và nhãn của tập dữ liệu là gì OK
+- Train tập dữ liệu bằng nghi thức hold-out OK
+    + Xây dựng mô hình cây quyết định bằng nghi thức này
+    + Cho biết độ chính xác tổng thể
+    + Cho biết độ chính xác cho từng phân lớp
+- Train tập dữ liệu bằng nghi thức k-fold với k = 100
+    + Xây dựng mô hình cây quyết định bằng nghi thức này
+    + Cho biết độ chính xác trung bình tổng thể
+    + Cho biết độ chính xác của từng phân lớp khi K = n
+- So sánh độ chính xác của giải thuật cây quyết định với giải thuật khác
+- Xây dựng biểu đồ so sánh
